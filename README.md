@@ -207,7 +207,7 @@ Five Star Calls = CALCULATE([Call Count], Calls[Rating Rounded] = 5)
 3. Formula: `CALCULATE([Call Count], Calls[Rating Rounded] = 5)`
 4. Format: Number, Whole number, Thousand separator
 
-**Result:** Out of 1,000 calls, 37 are five-star (happy callers)
+**Result:** Out of 1,000 calls, 307 are five-star (happy callers)
 
 ---
 
